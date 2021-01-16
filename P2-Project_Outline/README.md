@@ -15,17 +15,20 @@ Create asset library: Users will be able to create a library of assets that othe
 Search: Users will be able to search for equipment that is available to borrow
 Solicit/Process Lending Requests: Users will be able to request to borrow assets. Users will be able to deny or approve asset requests.
 Messaging: Users who have engaged in a lending request can message each other through the application.
+Exchange Locations: Users can arrange a location to meet for an equipment exchanges.
 
 ### Technologies
-C#
-ASP.NET Core
-Pomelo EntityFrameworkCore
-MySQL
-Identity
-gRPC
+C#,
+ASP.NET Core,
+Pomelo EntityFrameworkCore,
+MySQL,
+Identity,
+gRPC,
+Google Maps JavaScript API
 
 ### What I'll Have to Learn
-gRPC for client to client messaging through the server
+gRPC for client to client messaging through the server,
+Google Maps JavaScript API for displaying locations
 
 ### Project Tracker
 https://trello.com/b/zc7WNbwh
