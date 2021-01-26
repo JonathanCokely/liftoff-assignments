@@ -10,9 +10,11 @@ For this assignment, you'll create some initial plans for your project.
 
 Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
 
-https://github.com/JonathanCokely/liftoff-assignments/blob/master/P3-Project_Planning/Tool%20Sharing%20App%20-%20Profile%20Landing%20Page.jpg
-https://github.com/JonathanCokely/liftoff-assignments/blob/master/P3-Project_Planning/Tool%20Sharing%20App%20-%20Asset%20Search.jpg
-https://github.com/JonathanCokely/liftoff-assignments/blob/master/P3-Project_Planning/Tool%20Sharing%20-%20Messages%20_%20Requests.jpg
+1. https://github.com/JonathanCokely/liftoff-assignments/blob/master/P3-Project_Planning/Tool%20Sharing%20App%20-%20Profile%20Landing%20Page.jpg
+
+2. https://github.com/JonathanCokely/liftoff-assignments/blob/master/P3-Project_Planning/Tool%20Sharing%20App%20-%20Asset%20Search.jpg
+
+3. https://github.com/JonathanCokely/liftoff-assignments/blob/master/P3-Project_Planning/Tool%20Sharing%20-%20Messages%20_%20Requests.jpg
 
 ### Project Tracker
 
